@@ -24,14 +24,14 @@ The main objectives of this project are to:
 - **naive_bayes_test.py**:
   - Contains predefined test cases to evaluate the accuracy of the Naive Bayes Classifier implementation.
 
-- **data/**:
+- **data**:
   - This directory contains the dataset used for training and testing the classifier, including sentences and their corresponding categories.
 
 ## **How to Run**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/naive-bayes-classifier.git
+   git clone https://github.com/Pajju54/naive-bayes-classifier.git
    cd naive-bayes-classifier
    ```
 2. Ensure that the Python environment is set up with the necessary dependencies (if any).
